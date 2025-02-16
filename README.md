@@ -1,1 +1,1 @@
-Showing different design patterns in the React library with examples
+exercise different design patterns in the React library with examples!
